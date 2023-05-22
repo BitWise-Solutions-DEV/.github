@@ -16,3 +16,4 @@ Overview of BitWise Solutions products and our development teams.
 | BitWise CRM | BitWise Customer Relationship Management software. | `Work in progress` |
 | BitWise CMS | BitWise Content Management System. | `Work in progress` |
 | BitWise Shop | BitWise eCommerce Platform for All Businesses. | `Work in progress` |
+| MetaHive | BitWise Digital Marketing software. | `Work in progress` |
